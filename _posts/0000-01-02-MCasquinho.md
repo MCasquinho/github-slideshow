@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"To bee or not to buzzzz"
 Use the left arrow to go back!
